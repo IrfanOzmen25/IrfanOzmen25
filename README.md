@@ -4,11 +4,11 @@ Hi! I'm Irfan Ozmen, a computer science student and aspiring AI engineer with ha
 
 #📝List of my Projects:
 
-📦 Meijer mPerks:
+📦 **Meijer mPerks**:
 I contributed to the overhaul of the mPerks loyalty program by developing end-to-end machine learning solutions that enhanced personalization, forecasting, and campaign impact measurement. I built collaborative filtering and embedding-based recommendation models that increased targeted coupon redemption by 17%, and implemented XGBoost and Prophet forecasting pipelines to predict weekly SKU-store sales with 12% higher accuracy. I also fine-tuned a GPT-2 model to generate personalized campaign messages, resulting in a 9% lift in click-through rates. Additionally, I created a customer segmentation framework using K-Means and RFM analysis, applied causal inference techniques (uplift modeling, double ML) to measure true campaign lift, and delivered interactive dashboards to track model performance, customer response, and promotional ROI.
 
-📦 Repair Price Prediction Model Data Analysis and Predictive Modeling:
-Developed a comprehensive data analysis and machine learning pipeline using Python, pandas, scikit-learn, and PyTorch to explore, clean, and model a large dataset. Conducted exploratory data analysis (EDA) to visualize distributions, identify missing values, and assess feature correlations. Implemented data preprocessing steps, including normalization, encoding, and outlier detection, to improve data quality. Built and evaluated regression models—ranging from linear regression baselines to neural network architectures—to predict target variables and assess model performance using metrics such as RMSE, MAE, and R². This project demonstrated strong proficiency in data wrangling, statistical analysis, and end-to-end machine learning workflow development.
+📦 **Repair Price Prediction Model Data Analysis and Predictive Modeling:**
+Developed a comprehensive data analysis and machine learning pipeline using Python, pandas, scikit-learn, and PyTorch to explore, clean, and model a large dataset. Conducted exploratory data analysis (EDA) to visualize distributions, identify missing values, and assess feature correlations. Implemented data preprocessing steps, including normalization, encoding, and outlier detection, to improve data quality. Built and evaluated regression models—ranging from linear regression baselines to neural network architectures—to predict target variables and assess model performance using metrics such as RMSE, MAE, and R². This project demonstrated strong proficiency in data wrangling, statistical analysis, and the development of end-to-end machine learning workflows.
 <!--
 **IrfanOzmen25/IrfanOzmen25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
