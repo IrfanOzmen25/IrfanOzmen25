@@ -1,6 +1,6 @@
 ## Welcome to my Portfolio 👋
 
-Hi! I'm Irfan Ozmen, a computer science student and aspiring AI engineer with hands-on experience in applying machine learning, personalization, and causal inference to real-world retail systems. Most recently, I'm currently working as a Data Engineer Intern at Repair On Demand, where I contributed to a large-scale overhaul of their ReconPro program. My passion lies in building smart systems that connect data science with real user impact.
+Hi! I'm Irfan Ozmen, a computer science student and aspiring AI engineer with hands-on experience in applying machine learning, personalization, and causal inference to real-world retail systems. Most recently, I'm currently working as a Data Engineer Intern at Repair OnDemand, where I contributed to a large-scale overhaul of their ReconPro program. My passion lies in building smart systems that connect data science with real user impact.
 
 #📝List of my Projects:
 
