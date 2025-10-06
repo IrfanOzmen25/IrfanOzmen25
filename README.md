@@ -4,7 +4,7 @@ Hi! I'm Irfan Ozmen, a computer science student and aspiring AI engineer with ha
 
 #📝List of my Projects:
 
-📦 **Repair Price Prediction Model Data Analysis and Predictive Modeling:**
+📦 **Repair Price Prediction Model Data Analysis and Predictive Modeling** [Click Here For the Repo](https://github.com/IrfanOzmen25/Repair_Price_Prediction_Model):
 Developed a comprehensive data analysis and machine learning pipeline using Python, pandas, scikit-learn, and PyTorch to explore, clean, and model a large dataset. Conducted exploratory data analysis (EDA) to visualize distributions, identify missing values, and assess feature correlations. Implemented data preprocessing steps, including normalization, encoding, and outlier detection, to improve data quality. Built and evaluated regression models—ranging from linear regression baselines to neural network architectures—to predict target variables and assess model performance using metrics such as RMSE, MAE, and R². This project demonstrated strong proficiency in data wrangling, statistical analysis, and the development of end-to-end machine learning workflows.
 
 📦 **Meijer mPerks** [Click Here For the Repo](https://github.com/IrfanOzmen25/Meijer_mPerks_Sample_Reward_Program):
